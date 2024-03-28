@@ -4,7 +4,7 @@
   "description": "LocoJson is an AI-powered CLI tool for automating the translation of i18n JSON files, making multilingual applications easier to manage and scale.",
   "main": "dist/cli.js",
   "bin": {
-    "locojson": "./dist/cli.js"
+    "locojson": "dist/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
