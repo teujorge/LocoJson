@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Build output directory
+dist/
+
+# Logs
+*.log
+*.csv
+
+# Optional macOS filesystem files
+.DS_Store
+
+# Optional Windows filesystem files
+Thumbs.db
+ehthumbs.db
+
+# Optional JetBrains IDE files
+.idea/
+*.iml
+
+# Optional VS Code files
+.vscode/

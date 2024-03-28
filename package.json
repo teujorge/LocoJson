@@ -1,0 +1,29 @@
+{
+  "name": "locojson",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "locojson": "./dist/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Next.Js",
+    "AI",
+    "i18n",
+    "typescript"
+  ],
+  "author": "Matheus Jorge",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.29.2"
+  }
+}
